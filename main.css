@@ -145,7 +145,7 @@ body {
         font-size: 1.5rem;
     }
     #section input[type='date'] {
-        height: 56px;
+        height: 55px;
     }
     #footer {
         display: flex;
